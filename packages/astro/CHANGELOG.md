@@ -1,5 +1,13 @@
 # astro
 
+## 2.0.17
+
+### Patch Changes
+
+- [#6368](https://github.com/withastro/astro/pull/6368) [`02a7266e3`](https://github.com/withastro/astro/commit/02a7266e3c32c196fe733a5d3480f9e308cb62ee) Thanks [@userquin](https://github.com/userquin)! - Fix regression that caused some stateful Vite plugins to assume they were running in `dev` mode during the `build` and vice versa.
+
+- [#6358](https://github.com/withastro/astro/pull/6358) [`95164bfdd`](https://github.com/withastro/astro/commit/95164bfdd2c1cbe5f1fafeab9e998ee4c85df3e3) Thanks [@Princesseuh](https://github.com/Princesseuh)! - Add warning when using headers and encoding in endpoints in SSR
+
 ## 2.0.16
 
 ### Patch Changes
